@@ -3,17 +3,17 @@
 [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AlekJulM/Alura_Store/blob/main/AluraStoreLatam.ipynb)
 
 ## Descripción General
-AluraStoreLatam Analysis es un cuaderno de Jupyter (desarrollado en Google Colab) que ofrece un análisis exploratorio y descriptivo de las ventas, los costos de envío y los patrones de consumo en cuatro tiendas virtuales. A partir de datos almacenados en archivos CSV, el proyecto genera métricas clave (facturación total, ticket promedio, costo de envío medio), visualizaciones comparativas y tablas resumen para extraer insights accionables.
+AluraStoreLatam Analysis es un cuaderno de Jupyter (desarrollado en Google Colab) que ofrece un análisis exploratorio y descriptivo de las ventas, los costos de envío y los patrones de consumo en cuatro tiendas virtuales. A partir de datos almacenados en archivos CSV, el proyecto genera métricas clave (facturación total, ventas por categoría, costo de envío promedio, calificación promedio), visualizaciones comparativas y tablas resumen para extraer insights accionables.
 
 ## Motivación del Proyecto
-El comercio electrónico exige una comprensión detallada de los indicadores de venta y logística para optimizar decisiones estratégicas. Este proyecto nace de la necesidad de:
+El comercio exige una comprensión detallada de los indicadores de venta y logística para optimizar decisiones estratégicas. Este proyecto nace de la necesidad de:
 
 - Centralizar la evaluación de métricas de venta en múltiples tiendas.
-- Identificar categorías de producto y regiones con mejor desempeño.
-- Detectar oportunidades de mejora en costos de envío y eficiencia de ticket promedio.
+- Identificar categorías de producto con mejor desempeño.
+- Detectar oportunidades de mejora en costos de envío y eficiencia de reseñas.
 
 ## Tecnologías y Herramientas Utilizadas
-- **Python 3.8+**
+- **Python 3**
 - **pandas**: Manipulación y análisis de datos tabulares.
 - **NumPy**: Cálculos numéricos eficientes.
 - **Matplotlib**: Generación de gráficos comparativos.
@@ -87,7 +87,7 @@ Actualmente no hay tests automatizados. Para validación manual:
 > **Recomendación**: Implementar `pytest` para cubrir funciones de cálculo y garantizar consistencia.
 
 ## Créditos
-- **Autor**: Mikael – Estudiante de Ingeniería con enfoque en Machine Learning.
+- **Autor**: Alexander Jamin Julon Mayta.
 - **Datos**: Repositorio público de Alura Latam.
 - **Inspiración**: Reto de análisis de datos de Alura Latam.
 
