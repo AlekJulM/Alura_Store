@@ -1,6 +1,6 @@
 # AluraStoreLatam Analysis
 
-[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/USUARIO/REPO/blob/main/AluraStoreLatam.ipynb)
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AlekJulM/Alura_Store/blob/main/AluraStoreLatam.ipynb)
 
 ## Descripción General
 AluraStoreLatam Analysis es un cuaderno de Jupyter (desarrollado en Google Colab) que ofrece un análisis exploratorio y descriptivo de las ventas, los costos de envío y los patrones de consumo en cuatro tiendas virtuales. A partir de datos almacenados en archivos CSV, el proyecto genera métricas clave (facturación total, ticket promedio, costo de envío medio), visualizaciones comparativas y tablas resumen para extraer insights accionables.
