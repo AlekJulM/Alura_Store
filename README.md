@@ -1,4 +1,4 @@
-# AluraStoreLatam Analysis
+# AluraStoreLatam 
 
 [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AlekJulM/Alura_Store/blob/main/AluraStoreLatam.ipynb)
 
